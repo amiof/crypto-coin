@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    margin-bottom: 30px;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 20px; */
+    
+}
+.container img {
+    width: 40px;
+}
+section {
+    /* display: flex; */
+    /* justify-content: center; */
+    margin: 40px ;
+    border-bottom: 1px solid black;
+    
+}
+span {
+    margin-right: 50px;
+}
